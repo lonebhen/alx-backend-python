@@ -5,5 +5,5 @@
 
 
 def add(a: float, b: float) -> float:
-
+    """returns stotal as a float"""
     return a + b

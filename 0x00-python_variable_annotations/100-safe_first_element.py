@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-'''Task 10's module.
-'''
+"""Annotations"""
 from typing import Any, Sequence, Union
 
 
